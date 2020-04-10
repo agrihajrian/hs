@@ -90,7 +90,14 @@ function showPagePosts(json) {
 			postimg = postimg.replace('/s72-c/', '/w300-h400-p-k-no-nu-rj-l80/');
 			// Build the post template
 			output += '<article class="post hentry cf bb" id="' + postid + '">';
-			output += 'No posts yet';
+			output += '<a class="permalink" href="' + posturl + '"></a>';
+            output += '<header class="header post-header entry-header muted bb cf"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><img alt="' + posttitle + '" class="thumbnail post-thumbnail entry-thumbnail" data-src="' + postimg + '" height="600" title="' + posttitle + '" width="600" src="' + postimg + '"></header>';
+            output += '<div class="main post-main entry-main muted bb cf">';
+            output += '<h3 class="title post-title entry-title bb cf bold"><a class="cl" href="' + posturl + '"</a>' + posttitle + '</h3>';
+            output += '<div class="category post-category entry-category cf">';
+            output += '' + timepub + '';
+            output += '</div>';
+            output += '</div>';
             output += '</article>';
 
 		}
