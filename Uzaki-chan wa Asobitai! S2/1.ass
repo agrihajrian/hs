@@ -21,12 +21,7 @@ Video Position: 31561
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Commie Sans,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,40,1
-Style: Credit,Painfresco,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,9,10,10,10,1
-Style: Karaoke,LilyUPC,50,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,4,0,8,30,30,15,1
-Style: Translation,LilyUPC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,2,0,1,4,0,2,10,10,10,1
-Style: ED,@A-OTF Jun Pro 34,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
-Style: OP,Aller,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: Default,Commie Sans,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
