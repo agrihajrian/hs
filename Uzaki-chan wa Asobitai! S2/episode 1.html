@@ -1,0 +1,59 @@
+<div class='video-content'>
+  <div id='embed_holder' class='lowvid'>
+    <div class='player-embed' id='pembed'><iframe src="" frameborder="0" marginwidth="0" marginheight="0" scrolling="NO"
+      width="100%" height="100%" allowfullscreen="true" webkitallowfullscreen="true"
+      mozallowfullscreen="true"></iframe></div>
+  </div>
+</div>
+<div class='item video-nav'>
+  <div class='mobius'>
+    <select class='mirror' name='mirror'>
+      <option value=''>Select Episode</option>
+      <option value='https://databasestorage.blogspot.com/2022/10/uzaki-chan-1.html' data-server='1'>Episode 1</option>
+    </select>
+  </div>
+</div>
+<script type='text/javascript'>/*<![CDATA[*/
+  (e => {
+this.timer;
+const t = this;
+let n = document.querySelector(".video-content #embed_holder #pembed"),
+  r = document.querySelector(".item.video-nav .mobius select.mirror"),
+  a = document.querySelector("#pembed iframe"),
+  i = document.createElement("video"),
+  d = document.createElement("button"),
+  l = document.createElement("button"),
+  s = document.querySelector(".icol.light"),
+  c = document.createElement("div");
+a.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"), a.setAttribute("frameborder", "0"), i.setAttribute("width", "100%"), i.setAttribute("height", "auto"), i.innerHTML = `<source src="${e.adsVideo}">Your browser does not support HTML5 video.`, l.className = "skipBtn", d.className = "playBtn", c.className = "shadowStream", n && r && (l.addEventListener("click", () => {
+  window.open(e.adsUrl, "_blank")
+}), r.addEventListener("change", r => {
+  let s = r.currentTarget.value;
+  0 !== s.length && (n.innerHTML = "", a.src = s, e.ads ? e.adsNotPlayAgain ? n.appendChild(a) : (i.onplay = (() => {
+      l.style.display = "block", l.innerHTML = "";
+      let n = e.adsSkip;
+      t.timer = setInterval(() => {
+          l.innerHTML = `Skip Ads ${--n}`, n <= 0 && (clearInterval(t.timer), l.innerHTML = "Skip", l.disabled = !1)
+      }, 1e3)
+  }), i.onended = (() => {
+      window.open(e.adsUrl, "_blank")
+      n.innerHTML = "", n.appendChild(a)
+  }), i.pause(), i.currentTime = 0, l.disabled = !0, clearInterval(t.timer), l.style.display = "none", n.appendChild(d), n.appendChild(i), n.appendChild(l), l.addEventListener("click", () => {
+      i.pause(), n.innerHTML = "", n.appendChild(a)
+  }), d.addEventListener("click", t => {
+      e.adsPlayAgain || (e.adsNotPlayAgain = !0), t.currentTarget.remove(), i.play()
+  })) : n.appendChild(a))
+}), r.selectedIndex = 1, r.dispatchEvent(new Event("change")), s && (s.addEventListener("click", e => {
+  let t = e.currentTarget;
+  t.querySelector("i").removeAttribute("class"), t.classList.contains("turnedOff") ? (c.remove(), t.classList.remove("turnedOff"), t.querySelector("span").innerHTML = "Turn On Light", t.querySelector("i").className = "far fa-lightbulb") : (document.body.appendChild(c), t.classList.add("turnedOff"), t.querySelector("span").innerHTML = "Turn Off Light", t.querySelector("i").className = "fas fa-lightbulb")
+}), c.addEventListener("click", () => {
+  c.remove(), s.classList.remove("turnedOff"), s.querySelector("span").innerHTML = "Turn On Light", s.querySelector("i").className = "far fa-lightbulb"
+})))
+})({
+ads: true,
+adsUrl: "https://www.profitablegatetocontent.com/j3qb7zfvjf?key=0d593dda7aafa582ec89c28834a6aa56",
+adsVideo: "https://raw.githubusercontent.com/agrihajrian/hs/master/advertisement.mp4",
+adsSkip: 5,
+adsPlayAgain: false
+});
+  /*]]>*/</script>
