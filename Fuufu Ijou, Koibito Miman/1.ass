@@ -73,14 +73,14 @@ Dialogue: 0,0:03:04.58,0:03:06.59,Default,,0,0,0,,Aku sama sekali 'gak mau berba
 Dialogue: 0,0:03:17.66,0:03:19.44,Default,,0,0,0,,Minami-kun!
 Dialogue: 0,0:03:19.44,0:03:20.47,Default,,0,0,0,,Aku sudah melihatnya, loh!
 Dialogue: 0,0:03:20.47,0:03:21.90,Default,,0,0,0,,Tenjin Minami, ya?
-Dialogue: 0,0:03:20.47,0:03:23.10,Default,,0,0,0,,Klub Surat Kabar mewawancaraimu di lapangan, 'kan?
+Dialogue: 0,0:03:20.47,0:03:23.10,Default,,0,0,0,,{\an8}Klub Surat Kabar mewawancaraimu di lapangan, 'kan?
 Dialogue: 0,0:03:21.90,0:03:25.13,Default,,0,0,0,,Ketampanannya membuat cowok\Nsepertiku ikut tercerahkan!
-Dialogue: 0,0:03:24.32,0:03:27.28,Default,,0,0,0,,Katanya itu akan dijadikan sampul, 'kan?
+Dialogue: 0,0:03:24.32,0:03:27.28,Default,,0,0,0,,{\an8}Katanya itu akan dijadikan sampul, 'kan?
 Dialogue: 0,0:03:25.13,0:03:28.00,Default,,0,0,0,,Ditambah, dia juga orang baik.
-Dialogue: 0,0:03:27.28,0:03:30.07,Default,,0,0,0,,Akari terus-terusan bilang kalau wawancara itu khusus untuk orang tampan.
+Dialogue: 0,0:03:27.28,0:03:30.07,Default,,0,0,0,,{\an8}Akari terus-terusan bilang kalau wawancara itu khusus untuk orang tampan.
 Dialogue: 0,0:03:28.00,0:03:31.95,Default,,0,0,0,,Bagi intovert macam kita, dia adalah racun.\NBahkan sosok jahat.
 Dialogue: 0,0:03:30.07,0:03:30.92,Default,,0,0,0,,Apa?!
-Dialogue: 0,0:03:30.92,0:03:31.95,Default,,0,0,0,,Begitu.
+Dialogue: 0,0:03:30.92,0:03:31.95,Default,,0,0,0,,{\an8}Begitu.
 Dialogue: 0,0:03:32.66,0:03:35.58,Default,,0,0,0,,Ta-Tapi Minami-kun keren banget .....
 Dialogue: 0,0:03:36.02,0:03:38.08,Default,,0,0,0,,Terima kasih. Aku senang.
 Dialogue: 0,0:03:40.88,0:03:42.72,Default,,0,0,0,,Gampang ditebak.
@@ -109,17 +109,17 @@ Dialogue: 0,0:04:30.38,0:04:35.99,Default,,0,0,0,,Mulai sekarang, kalian akan ti
 Dialogue: 0,0:04:35.99,0:04:37.71,Default,,0,0,0,,Sudah dilengkapi perabotan dan dapur,
 Dialogue: 0,0:04:37.71,0:04:41.49,Default,,0,0,0,,jadi tidak usah cemas soal kebutuhan\Nsehari-hari kalian.
 Dialogue: 0,0:04:41.49,0:04:47.31,Default,,0,0,0,,Sensor di ruang tengah akan\Nmemantau tindakan dan keseharian kalian.
-Dialogue: 0,0:04:42.31,0:04:47.31,Default,,0,0,0,,Poin Latihan
+Dialogue: 0,0:04:42.31,0:04:47.31,Default,,0,0,0,,{\an8}Poin Latihan
 Dialogue: 0,0:04:47.84,0:04:49.82,Default,,0,0,0,,Dan yang paling penting ...
 Dialogue: 0,0:04:52.07,0:04:56.14,Default,,0,0,0,,... kalian masih pelajar, jadi tempat tidurnya terpisah.
 Dialogue: 0,0:04:56.14,0:04:59.41,Default,,0,0,0,,Kamar kalian hanya bisa dimasuki\Ndengan sidik jari masing-masing.
 Dialogue: 0,0:05:06.25,0:05:08.36,Default,,0,0,0,,Tolong jangan sampai khilaf.
-Dialogue: 0,0:05:08.36,0:05:10.37,Default,,0,0,0,,Dan kendalikan diri kalian.
+Dialogue: 0,0:05:08.36,0:05:10.37,Default,,0,0,0,,{\an8}Dan kendalikan diri kalian.
 Dialogue: 0,0:05:08.36,0:05:10.72,Default,,0,0,0,,Apaan, sih?
 Dialogue: 0,0:05:10.72,0:05:12.46,Default,,0,0,0,,Mendingan 'gak usah sekalian, deh.
-Dialogue: 0,0:05:10.72,0:05:14.51,Default,,0,0,0,,Lalu satu hal lagi, terkait sistem peringkat A ....
+Dialogue: 0,0:05:10.72,0:05:14.51,Default,,0,0,0,,{\an8}Lalu satu hal lagi, terkait sistem peringkat A ....
 Dialogue: 0,0:05:14.51,0:05:16.90,Default,,0,0,0,,Di 5 kelas, jumlah cowok dan ceweknya\Nmasing-masing 15,
-Dialogue: 0,0:05:14.51,0:05:19.68,Default,,0,0,0,,Siswa yang di peringkat 10 besar setiap bulannya ...
+Dialogue: 0,0:05:14.51,0:05:19.68,Default,,0,0,0,,{\an8}Siswa yang di peringkat 10 besar setiap bulannya ...
 Dialogue: 0,0:05:16.90,0:05:20.35,Default,,0,0,0,,artinya peluangku dipasangkan dengan cewek yang kumau 1 banding 75?
 Dialogue: 0,0:05:20.35,0:05:22.32,Default,,0,0,0,,Semoga aku dapat orang yang sudah kukenal!
 Dialogue: 0,0:05:23.06,0:05:24.16,Default,,0,0,0,,Ngarep amat!
@@ -131,7 +131,7 @@ Dialogue: 0,0:05:33.19,0:05:38.53,Default,,0,0,0,,{\an8}Jiro
 Dialogue: 0,0:05:33.72,0:05:35.94,Default,,0,0,0,,Jika pahlawan seorang bisa\Nmengalahkan bos tanpa terluka,
 Dialogue: 0,0:05:35.94,0:05:37.92,Default,,0,0,0,,dia bisa memilih rute lain selain heroine.
 Dialogue: 0,0:05:38.53,0:05:41.66,Default,,0,0,0,,Setelah itu, pergi lurus ke dungeon ....
-Dialogue: 0,0:05:41.66,0:05:44.16,Default,,0,0,0,,Lancia
+Dialogue: 0,0:05:41.66,0:05:44.16,Default,,0,0,0,,{\an8}Lancia
 Dialogue: 0,0:05:41.66,0:05:44.16,Default,,0,0,0,,Eh?\NAda perlu apa?
 Dialogue: 0,0:05:44.77,0:05:46.46,Default,,0,0,0,,Lancia?!
 Dialogue: 0,0:05:46.46,0:05:47.94,Default,,0,0,0,,Tidak, tidak.
@@ -178,7 +178,7 @@ Dialogue: 0,0:07:29.52,0:07:31.11,Default,,0,0,0,,Aduh!
 Dialogue: 0,0:07:31.11,0:07:33.27,Default,,0,0,0,,Memang itu bisa?
 Dialogue: 0,0:07:33.27,0:07:36.78,Default,,0,0,0,,Kamu enggak dengar penjelasannya?\NAstaga.
 Dialogue: 0,0:07:37.18,0:07:38.32,Default,,0,0,0,,Lihat ini.
-Dialogue: 0,0:07:38.03,0:07:39.78,Default,,0,0,0,,Panduan Latihan Mantenan\NKelas Tiga Akademi Seishun
+Dialogue: 0,0:07:38.03,0:07:39.78,Default,,0,0,0,,{\an8}Panduan Latihan Mantenan\NKelas Tiga Akademi Seishun
 Dialogue: 0,0:07:42.75,0:07:46.11,Default,,0,0,0,,"Setiap pasangan yang masuk 10 besar atau peringkat A di akhir bulan,
 Dialogue: 0,0:07:46.11,0:07:48.90,Default,,0,0,0,,akan berhak untuk mengganti pasangannya sesuai keinginan mereka."
 Dialogue: 0,0:07:48.90,0:07:49.46,Default,,0,0,0,,Sumpah?
@@ -278,16 +278,16 @@ Dialogue: 0,0:12:51.37,0:12:53.52,Default,,0,0,0,,Kecup apaan?
 Dialogue: 0,0:12:54.23,0:12:57.51,Default,,0,0,0,,Buruan bangun dan bantu buat sarapan.
 Dialogue: 0,0:12:57.82,0:13:00.20,Default,,0,0,0,,Eh? Su-Sudah pagi?
 Dialogue: 0,0:13:01.98,0:13:04.39,Default,,0,0,0,,Gawat! Aku ketiduran, ya?
-Dialogue: 0,0:13:02.86,0:13:05.36,Default,,0,0,0,,Jangan lupa alasan kita pura-pura mantenan!
+Dialogue: 0,0:13:02.86,0:13:05.36,Default,,0,0,0,,{\an8}Jangan lupa alasan kita pura-pura mantenan!
 Dialogue: 0,0:13:05.36,0:13:08.52,Default,,0,0,0,,Bibirnya lembut banget ....
 Dialogue: 0,0:13:08.52,0:13:11.53,Default,,0,0,0,,Tidak! Aku suka sama Shiori!
 Dialogue: 0,0:13:11.53,0:13:12.90,Default,,0,0,0,,Hei!
 Dialogue: 0,0:13:13.22,0:13:14.92,Default,,0,0,0,,Masih duduk terus?!
 Dialogue: 0,0:13:14.92,0:13:16.15,Default,,0,0,0,,Kuhajar kau!
 Dialogue: 0,0:13:17.71,0:13:19.70,Default,,0,0,0,,I-Iya! Maaf!
-Dialogue: 0,0:13:19.70,0:13:22.45,Default,,0,0,0,,Seminggu kemudian
+Dialogue: 0,0:13:19.70,0:13:22.45,Default,,0,0,0,,{\an8}Seminggu kemudian
 Dialogue: 0,0:13:20.18,0:13:22.45,Default,,0,0,0,,Setelah semua itu, akhirnya seminggu berlalu.
-Dialogue: 0,0:13:22.45,0:13:24.58,Default,,0,0,0,,Ruang Guru
+Dialogue: 0,0:13:22.45,0:13:24.58,Default,,0,0,0,,{\an8}Ruang Guru
 Dialogue: 0,0:13:22.98,0:13:24.58,Default,,0,0,0,,Permisi.
 Dialogue: 0,0:13:32.10,0:13:32.88,Default,,0,0,0,,Eh?
 Dialogue: 0,0:13:33.58,0:13:35.80,Default,,0,0,0,,Apa kamu yang piket hari ini, Yakuin-kun?
@@ -298,12 +298,12 @@ Dialogue: 0,0:13:46.30,0:13:47.06,Default,,0,0,0,,Eh?
 Dialogue: 0,0:13:47.53,0:13:49.78,Default,,0,0,0,,Harus datang berpasangan, loh.
 Dialogue: 0,0:13:49.78,0:13:50.72,Default,,0,0,0,,Iya.
 Dialogue: 0,0:14:02.90,0:14:06.67,Default,,0,0,0,,Apa Shiori dan Tenjin lancar-lancar saja, ya?
-Dialogue: 0,0:14:06.97,0:14:08.88,Default,,0,0,0,,Aku belum pernah ke sana.
+Dialogue: 0,0:14:06.97,0:14:08.88,Default,,0,0,0,,{\an8}Aku belum pernah ke sana.
 Dialogue: 0,0:14:06.97,0:14:11.19,Default,,0,0,0,,Kukira dia akan khawatir dan mengajakku ngobrol kalau aku loyo begini.
-Dialogue: 0,0:14:08.88,0:14:13.16,Default,,0,0,0,,Eh? Pergi bareng, yuk.\NKamu mungkin akan suka,
+Dialogue: 0,0:14:08.88,0:14:13.16,Default,,0,0,0,,{\an8}Eh? Pergi bareng, yuk.\NKamu mungkin akan suka,
 Dialogue: 0,0:14:11.19,0:14:11.92,Default,,0,0,0,,tahunya malah dicuekin.
 Dialogue: 0,0:14:12.23,0:14:15.44,Default,,0,0,0,,Lagian, pemikiran tadi\Nmenandakan nasibku suram, ya?
-Dialogue: 0,0:14:13.16,0:14:14.95,Default,,0,0,0,,Aku mau!
+Dialogue: 0,0:14:13.16,0:14:14.95,Default,,0,0,0,,{\an8}Aku mau!
 Dialogue: 0,0:14:15.44,0:14:16.94,Default,,0,0,0,,Mungkin saat itu juga ....
 Dialogue: 0,0:14:18.57,0:14:20.16,Default,,0,0,0,,Ada apa, Shiori?
 Dialogue: 0,0:14:20.64,0:14:22.93,Default,,0,0,0,,Enggak masalah, 'kan?\NKita kan pasangan suami istri.
@@ -395,7 +395,7 @@ Dialogue: 0,0:17:44.42,0:17:46.09,Default,,0,0,0,,I-Iya.
 Dialogue: 0,0:17:49.28,0:17:51.57,Default,,0,0,0,,Hujannya enggak reda-reda, ya?
 Dialogue: 0,0:17:51.57,0:17:52.68,Default,,0,0,0,,Mana payungmu?
 Dialogue: 0,0:17:53.90,0:17:55.44,Default,,0,0,0,,Aku lupa!
-Dialogue: 0,0:17:55.44,0:17:57.69,Default,,0,0,0,,Jiro menerima\Nluka 'gak ngotak
+Dialogue: 0,0:17:55.44,0:17:57.69,Default,,0,0,0,,{\an8}Jiro menerima\Nluka 'gak ngotak
 Dialogue: 0,0:17:56.59,0:17:57.69,Default,,0,0,0,,Be-Begitu, ya.
 Dialogue: 0,0:18:05.61,0:18:07.20,Default,,0,0,0,,Ah, salah.
 Dialogue: 0,0:18:07.42,0:18:09.10,Default,,0,0,0,,Maaf, kukira itu serangga.
@@ -474,21 +474,19 @@ Dialogue: 0,0:21:49.49,0:21:51.63,Default,,0,0,0,,Aku jadi malu banget, tahu!
 Dialogue: 0,0:21:52.13,0:21:54.13,Default,,0,0,0,,Sialan, aku ogah begitu lagi.
 Dialogue: 0,0:22:00.58,0:22:03.23,Default,,0,0,0,,Enak! Aku memang hebat!
 Dialogue: 0,0:22:15.03,0:22:17.95,Default,,0,0,0,,Ah? Marin-san memasakkan nasi omelet untukmu?
-Dialogue: 0,0:22:16.82,0:22:17.95,Default,,0,0,0,,Jiro
+Dialogue: 0,0:22:16.82,0:22:17.95,Default,,0,0,0,,{\an8}Jiro
 Dialogue: 0,0:22:19.50,0:22:20.72,Default,,0,0,0,,Terima kasih.
 Dialogue: 0,0:22:20.72,0:22:22.34,Default,,0,0,0,,Hah? Ada apa?
-Dialogue: 0,0:22:21.17,0:22:23.70,Default,,0,0,0,,Apaan, sih? Kenapa aku ...
+Dialogue: 0,0:22:21.17,0:22:23.70,Default,,0,0,0,,{\an8}Apaan, sih? Kenapa aku ...
 Dialogue: 0,0:22:22.34,0:22:23.70,Default,,0,0,0,,Apa maksudmu tadi?
 Dialogue: 0,0:22:24.39,0:22:26.96,Default,,0,0,0,,... hatiku deg-degan begini, sih?
 Dialogue: 0,0:22:27.73,0:22:29.54,Default,,0,0,0,,Aku tidak mengerti.
-Dialogue: 0,0:24:00.01,0:24:06.51,Default,,0,0,0,,Jiro "Setiap malam sebelum mandi, Watanabe keluar dari\Nkamarnya dengan wajah erotis. Kenapa begitu?
 Dialogue: 0,0:24:00.86,0:24:02.57,Default,,0,0,0,,Setiap malam sebelum mandi,
 Dialogue: 0,0:24:02.57,0:24:05.46,Default,,0,0,0,,Watanabe keluar dari kamarnya dengan wajah erotis.
 Dialogue: 0,0:24:05.46,0:24:06.51,Default,,0,0,0,,Kenapa begitu?
-Dialogue: 0,0:24:06.51,0:24:08.14,Default,,0,0,0,,Jiro "Misteri itu langsung bisa kupecahkan."
 Dialogue: 0,0:24:06.81,0:24:08.57,Default,,0,0,0,,Misteri itu langsung bisa kupecahkan.
-Dialogue: 0,0:24:08.14,0:24:10.52,Default,,0,0,0,,Akari "Unh......... Unh......... Mmm........."
+Dialogue: 0,0:24:08.14,0:24:10.52,Default,,0,0,0,,{\an8}Unh......... Unh......... Mmm........."
 Dialogue: 0,0:24:10.52,0:24:12.21,Default,,0,0,0,,Su-Suara ini ....
-Dialogue: 0,0:24:10.52,0:24:14.52,Default,,0,0,0,,Jiro "Su......... Suara itu.........\N\h\h\h\h\h\h\h\hTubuhku bergerak sendiri meski tahu ini salah..."
-Dialogue: 0,0:24:14.61,0:24:18.03,Default,,0,0,0,,Jiro "Jelas saja! Aku malu dengan imajinasiku! sendiri!"
+Dialogue: 0,0:24:10.52,0:24:14.52,Default,,0,0,0,,Su......... Suara itu.........\N\h\h\h\h\h\h\h\hTubuhku bergerak sendiri meski tahu ini salah..."
+Dialogue: 0,0:24:14.61,0:24:18.03,Default,,0,0,0,,Jelas saja! Aku malu dengan imajinasiku! sendiri!
 Dialogue: 0,0:24:18.03,0:24:20.03,Default,,0,0,0,,Berikutnya, Melebihi Imajinasi, Bukan Kenyataan.
