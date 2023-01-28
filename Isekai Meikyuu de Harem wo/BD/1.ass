@@ -26,13 +26,13 @@ Video Position: 3742
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Roboto Medium,44,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,40,40,46,1
-Style: Utama,Commie Sans,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.6,1,2,40,40,45,1
-Style: Miring,Commie Sans,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.6,1,2,40,40,45,1
+Style: Utama,Commie Sans,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.6,1,2,40,40,45,1
+Style: Miring,Commie Sans,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.6,1,2,40,40,45,1
 Style: Flashback,Roboto Medium,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,40,40,46,1
 Style: Flashback_Italics,Roboto Medium,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.6,0,2,40,40,46,1
 Style: Narration,Roboto Medium,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.6,0,2,40,40,46,1
 Style: Main - Top,Roboto Medium,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,8,40,40,46,1
-Style: Miring A,Commie Sans,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.6,1,8,40,40,45,1
+Style: Miring A,Commie Sans,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.6,1,8,40,40,45,1
 Style: Flashback - Top,Roboto Medium,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,8,40,40,46,1
 Style: Flashback_Italics - Top,Roboto Medium,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.6,0,8,40,40,46,1
 Style: Sign_Basic,Trebuchet MS,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,20,20,36,1
