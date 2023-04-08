@@ -16,7 +16,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: Utama
 Audio File: Video/[SubsPlease] Isekai One Turn Kill Neesan - 01 (1080p) [2B064AFB]-OUT.mkv
 Video File: Video/[SubsPlease] Isekai One Turn Kill Neesan - 01 (1080p) [2B064AFB]-OUT.mkv
 Video AR Mode: 4
@@ -39,52 +39,52 @@ Style: Flashback Top,Roboto Medium,35,&H00FFFFFF,&H000000FF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.85,0:00:12.36,utama,,0,0,0,,{\shad0}{\fad(0,500)\an1\p1\bord0\blur0.667\fscx50\fscy20\move(-3.313,316.667,182.188,316.667,0,500)}m 0 0 l -2986.5 0 l -2986.5 -13.375 l 0 -13.375 b 3.375 -12.625 5.25 -10.625 5.25 -6.625 b 5.25 -3.375 4 0 0 0
-Dialogue: 0,0:00:03.35,0:00:06.36,utama,,0,0,0,,{\shad0}{\blur0.667}{\bord0\fnArial Rounded MT Bold\fs23.333\move(89.438,346.667,89.438,310,0,500)\clip(3,273,188,310)\b1}H{\fnAirstrip Four\fs18.667}unter {\fnArial Rounded MT Bold\fs23.333}N{\fnAirstrip Four\fs18.667}o {\fnArial Rounded MT Bold\fs23.333}S{\fnAirstrip Four\fs18.667}ekai
-Dialogue: 0,0:00:06.36,0:00:06.77,utama,,0,0,0,,{\shad0}{\blur0.667\iclip(6,235,190,283)}{\bord0\fnArial Rounded MT Bold\fs23.333\move(89.438,310,89.438,266.667,0,500)\b1\iclip(6,256,189,283)}H{\fnAirstrip Four\fs18.667}unter {\fnArial Rounded MT Bold\fs23.333}N{\fnAirstrip Four\fs18.667}o {\fnArial Rounded MT Bold\fs23.333}S{\fnAirstrip Four\fs18.667}ekai
-Dialogue: 0,0:00:03.35,0:00:06.36,utama,,0,0,0,,{\shad0}{\blur0.667}{\bord0\fnArial Rounded MT Bold\fs20\move(89.438,306.667,89.438,333.333,0,500)\iclip(3,273,188,310)\b1}N{\fnAirstrip Four\fs16.667}ow {\fnArial Rounded MT Bold\fs20}W{\fnAirstrip Four\fs16.667}atching
-Dialogue: 0,0:00:06.36,0:00:06.77,utama,,0,0,0,,{\shad0}{\blur0.667}{\bord0\fnArial Rounded MT Bold\fs20\move(89.438,333.333,89.438,373.333,0,500)\iclip(4,335,181,379)\b1}N{\fnAirstrip Four\fs16.667}ow {\fnArial Rounded MT Bold\fs20}W{\fnAirstrip Four\fs16.667}atching
-Dialogue: 0,0:00:06.27,0:00:09.36,utama,,0,0,0,,{\shad0}{\blur0.667\clip(3,245,311,309)}{\bord0\fnArial Rounded MT Bold\fs23.333\move(89.438,346.667,89.438,310,0,500)\clip(3,273,311,309)\b1}I{\fnAirstrip Four\fs18.667}sekai One Kill Neesan{\i1\fnArial Rounded MT Bold\fs23.333}
-Dialogue: 0,0:00:06.27,0:00:09.36,utama,,0,0,0,,{\shad0}{\blur0.667\iclip(3,247,313,309)}{\bord0\fnAirstrip Four\fs16.667\move(89.438,306.667,89.438,333.333,0,500)\iclip(3,273,311,309)\b1}Episode {\fnArial Rounded MT Bold\fs20}#{\fnAirstrip Four\fs16.667}01
-Dialogue: 0,0:00:09.36,0:00:09.78,utama,,0,0,0,,{\shad0}{\blur0.667\iclip(6,225,191,287)}{\bord0\fnAirstrip Four\fs23.333\move(89.438,310,89.438,266.667,0,500)\b0\iclip(6,256,189,283)}I{\fnAirstrip Four\fs18.667}sekai One Kill Neesan{\i1\fnArial Rounded MT Bold\fs23.333}
-Dialogue: 0,0:00:09.36,0:00:09.78,utama,,0,0,0,,{\shad0}{\blur0.667}{\bord0\fnAirstrip Four\fs16.667\move(89.438,333.333,89.438,373.333,0,500)\iclip(4,335,181,379)\b1}Episode {\fnArial Rounded MT Bold\fs20}#{\fnAirstrip Four\fs16.667}01
-Dialogue: 0,0:00:09.23,0:00:12.36,utama,,0,0,0,,{\shad0}{\blur0.667}{\fad(0,500)\bord0\fnAirstrip Four\fs18.667\move(89.438,346.667,89.438,310,0,500)\clip(3,273,311,309)\b1}Kunjungi:
-Dialogue: 0,0:00:09.23,0:00:12.36,utama,,0,0,0,,{\shad0}{\blur0.667}{\fad(0,500)\bord0\fnAirstrip Four\fs13.333\move(89.438,306.667,89.438,333.333,0,500)\iclip(3,273,311,309)\b1}www.huntersekai.download
-Dialogue: 0,0:02:21.99,0:02:24.99,Default,text,0,0,0,,{\fad(0,1000)\bord0\b1\shad0\blur0.3\fnOCR A Extended\fs18\fay0.04\fax0.15\fscx80\pos(483.88,148.8)}EPISODE 1
-Dialogue: 0,0:02:21.99,0:02:24.99,Default,text,0,0,0,,{\fad(0,1000)\bord0\b1\shad0\blur0.3\fnOCR A Extended\fs27\an8\fay0.02\fax0.15\fscx80\frz2.256\pos(495.095,203.2)}Kamu manggil\N{\c&H0A00E8&} Mbak?
-Dialogue: 0,0:03:55.21,0:03:57.71,Default,text,0,0,0,,{\fncommie sans\bord0\fs20\blur0.3\shad0\b1\pos(101.42,184.4)}ISEKAI
-Dialogue: 0,0:03:55.21,0:03:57.71,Default,text,0,0,0,,{\fnArial\b1\bord0\shad0\blur0.3\an8\fscx90\fscy210\fs40\pos(29.753,173.067)}[
-Dialogue: 0,0:03:55.21,0:03:57.71,Default,text,0,0,0,,{\fnArial\b1\bord0\shad0\blur0.3\an8\fscx90\fscy210\fs40\pos(170.753,173.067)}]
-Dialogue: 0,0:03:55.21,0:03:57.71,Default,text,0,0,0,,{\fncommie sans\b1\bord0\shad0\blur0.3\an8\fscx90\fs40\pos(99.087,181.733)}Dunia\NLain
-Dialogue: 0,0:03:55.21,0:03:57.71,Default,text,0,0,0,,{\fncommie sans\an7\bord0\fs26\fscx90\blur0.3\shad0\b1\pos(108.953,289.6)}Merujuk pada dunia yang berbeda dimensi dari dunia asli tempat tinggal kita
-Dialogue: 0,0:04:58.61,0:05:00.36,Default,text,0,0,0,,{\fncommie sans\blur0.3\an7\fs49\bord0\shad0\frz17.78\c&HDAF6C7&\frx10\fry14\pos(532.275,402.533)}Tidak ada Jaringan
-Dialogue: 0,0:05:18.13,0:05:19.88,Default,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\fs34\shad0\c&H131505&\pos(435.812,372.8)}Pegadaian
-Dialogue: 0,0:06:15.14,0:06:17.14,Default,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord3\3a&H70&\fs34\shad0\c&H131505&\t(\fscx95\fscy95)\3c&H9F771E&\move(422.296,345,422.296,339,902,0)}Serikat Petualang
+Dialogue: 0,0:00:02.85,0:00:12.36,Utama,,0,0,0,,{\shad0}{\fad(0,500)\an1\p1\bord0\blur0.667\fscx50\fscy20\move(-3.313,316.667,182.188,316.667,0,500)}m 0 0 l -2986.5 0 l -2986.5 -13.375 l 0 -13.375 b 3.375 -12.625 5.25 -10.625 5.25 -6.625 b 5.25 -3.375 4 0 0 0
+Dialogue: 0,0:00:03.35,0:00:06.36,Utama,,0,0,0,,{\shad0}{\blur0.667}{\bord0\fnArial Rounded MT Bold\fs23.333\move(89.438,346.667,89.438,310,0,500)\clip(3,273,188,310)\b1}H{\fnAirstrip Four\fs18.667}unter {\fnArial Rounded MT Bold\fs23.333}N{\fnAirstrip Four\fs18.667}o {\fnArial Rounded MT Bold\fs23.333}S{\fnAirstrip Four\fs18.667}ekai
+Dialogue: 0,0:00:06.36,0:00:06.77,Utama,,0,0,0,,{\shad0}{\blur0.667\iclip(6,235,190,283)}{\bord0\fnArial Rounded MT Bold\fs23.333\move(89.438,310,89.438,266.667,0,500)\b1\iclip(6,256,189,283)}H{\fnAirstrip Four\fs18.667}unter {\fnArial Rounded MT Bold\fs23.333}N{\fnAirstrip Four\fs18.667}o {\fnArial Rounded MT Bold\fs23.333}S{\fnAirstrip Four\fs18.667}ekai
+Dialogue: 0,0:00:03.35,0:00:06.36,Utama,,0,0,0,,{\shad0}{\blur0.667}{\bord0\fnArial Rounded MT Bold\fs20\move(89.438,306.667,89.438,333.333,0,500)\iclip(3,273,188,310)\b1}N{\fnAirstrip Four\fs16.667}ow {\fnArial Rounded MT Bold\fs20}W{\fnAirstrip Four\fs16.667}atching
+Dialogue: 0,0:00:06.36,0:00:06.77,Utama,,0,0,0,,{\shad0}{\blur0.667}{\bord0\fnArial Rounded MT Bold\fs20\move(89.438,333.333,89.438,373.333,0,500)\iclip(4,335,181,379)\b1}N{\fnAirstrip Four\fs16.667}ow {\fnArial Rounded MT Bold\fs20}W{\fnAirstrip Four\fs16.667}atching
+Dialogue: 0,0:00:06.27,0:00:09.36,Utama,,0,0,0,,{\shad0}{\blur0.667\clip(3,245,311,309)}{\bord0\fnArial Rounded MT Bold\fs23.333\move(89.438,346.667,89.438,310,0,500)\clip(3,273,311,309)\b1}I{\fnAirstrip Four\fs18.667}sekai One Kill Neesan{\i1\fnArial Rounded MT Bold\fs23.333}
+Dialogue: 0,0:00:06.27,0:00:09.36,Utama,,0,0,0,,{\shad0}{\blur0.667\iclip(3,247,313,309)}{\bord0\fnAirstrip Four\fs16.667\move(89.438,306.667,89.438,333.333,0,500)\iclip(3,273,311,309)\b1}Episode {\fnArial Rounded MT Bold\fs20}#{\fnAirstrip Four\fs16.667}01
+Dialogue: 0,0:00:09.36,0:00:09.78,Utama,,0,0,0,,{\shad0}{\blur0.667\iclip(6,225,191,287)}{\bord0\fnAirstrip Four\fs23.333\move(89.438,310,89.438,266.667,0,500)\b0\iclip(6,256,189,283)}I{\fnAirstrip Four\fs18.667}sekai One Kill Neesan{\i1\fnArial Rounded MT Bold\fs23.333}
+Dialogue: 0,0:00:09.36,0:00:09.78,Utama,,0,0,0,,{\shad0}{\blur0.667}{\bord0\fnAirstrip Four\fs16.667\move(89.438,333.333,89.438,373.333,0,500)\iclip(4,335,181,379)\b1}Episode {\fnArial Rounded MT Bold\fs20}#{\fnAirstrip Four\fs16.667}01
+Dialogue: 0,0:00:09.23,0:00:12.36,Utama,,0,0,0,,{\shad0}{\blur0.667}{\fad(0,500)\bord0\fnAirstrip Four\fs18.667\move(89.438,346.667,89.438,310,0,500)\clip(3,273,311,309)\b1}Kunjungi:
+Dialogue: 0,0:00:09.23,0:00:12.36,Utama,,0,0,0,,{\shad0}{\blur0.667}{\fad(0,500)\bord0\fnAirstrip Four\fs13.333\move(89.438,306.667,89.438,333.333,0,500)\iclip(3,273,311,309)\b1}www.huntersekai.download
+Dialogue: 0,0:02:21.99,0:02:24.99,Utama,text,0,0,0,,{\fad(0,1000)\bord0\b1\shad0\blur0.3\fnOCR A Extended\fs18\fay0.04\fax0.15\fscx80\pos(483.88,148.8)}EPISODE 1
+Dialogue: 0,0:02:21.99,0:02:24.99,Utama,text,0,0,0,,{\fad(0,1000)\bord0\b1\shad0\blur0.3\fnOCR A Extended\fs27\an8\fay0.02\fax0.15\fscx80\frz2.256\pos(495.095,203.2)}Kamu manggil\N{\c&H0A00E8&} Mbak?
+Dialogue: 0,0:03:55.21,0:03:57.71,Utama,text,0,0,0,,{\fncommie sans\bord0\fs20\blur0.3\shad0\b1\pos(101.42,184.4)}ISEKAI
+Dialogue: 0,0:03:55.21,0:03:57.71,Utama,text,0,0,0,,{\fnArial\b1\bord0\shad0\blur0.3\an8\fscx90\fscy210\fs40\pos(29.753,173.067)}[
+Dialogue: 0,0:03:55.21,0:03:57.71,Utama,text,0,0,0,,{\fnArial\b1\bord0\shad0\blur0.3\an8\fscx90\fscy210\fs40\pos(170.753,173.067)}]
+Dialogue: 0,0:03:55.21,0:03:57.71,Utama,text,0,0,0,,{\fncommie sans\b1\bord0\shad0\blur0.3\an8\fscx90\fs40\pos(99.087,181.733)}Dunia\NLain
+Dialogue: 0,0:03:55.21,0:03:57.71,Utama,text,0,0,0,,{\fncommie sans\an7\bord0\fs26\fscx90\blur0.3\shad0\b1\pos(108.953,289.6)}Merujuk pada dunia yang berbeda dimensi dari dunia asli tempat tinggal kita
+Dialogue: 0,0:04:58.61,0:05:00.36,Utama,text,0,0,0,,{\fncommie sans\blur0.3\an7\fs49\bord0\shad0\frz17.78\c&HDAF6C7&\frx10\fry14\pos(532.275,402.533)}Tidak ada Jaringan
+Dialogue: 0,0:05:18.13,0:05:19.88,Utama,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\fs34\shad0\c&H131505&\pos(435.812,372.8)}Pegadaian
+Dialogue: 0,0:06:15.14,0:06:17.14,Utama,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord3\3a&H70&\fs34\shad0\c&H131505&\t(\fscx95\fscy95)\3c&H9F771E&\move(422.296,345,422.296,339,902,0)}Serikat Petualang
 Dialogue: 0,0:07:09.53,0:07:17.49,Utama,text,0,0,0,,{\fnOCR A Extended\bord1\shad0\b1\fax0.04\fs40\blur0.3\frz8.624\c&H001046&\3c&H061429&\frx8\fry2\pos(387.295,72.134)}Ikusaba Asahi
-Dialogue: 0,0:08:12.59,0:08:13.88,Default,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx90\fs24\c&HFEFFF6&\pos(409.726,56.6)}Daftar Skill
-Dialogue: 0,0:08:12.59,0:08:13.88,Default,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(432.608,145.6)}Lempar Batu Lv: 1
-Dialogue: 0,0:08:13.88,0:08:13.93,Default,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx90\fs24\c&HFEFFF6&\pos(409.726,56.6)}Daftar Skill
-Dialogue: 0,0:08:13.88,0:08:13.93,Default,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(432.608,145.6)}Lempar Batu Lv: 1
-Dialogue: 0,0:08:13.93,0:08:13.97,Default,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx90\fs24\c&HFEFFF6&\pos(409.726,56.6)}Daftar Skill
-Dialogue: 0,0:08:13.93,0:08:13.97,Default,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(442.221,193.6)}Lempar Batu Lv: 1
-Dialogue: 0,0:08:13.97,0:08:14.47,Default,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(442.221,193.6)}Lempar Batu Lv: 1
-Dialogue: 1,0:08:13.97,0:08:14.47,Default,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(442.221,193.6)}Lempar Batu Lv: 1
-Dialogue: 0,0:08:14.47,0:08:15.09,Default,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(442.221,193.6)}Lempar Batu Lv: 1
-Dialogue: 1,0:08:14.47,0:08:15.09,Default,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(442.221,193.6)}Lempar Batu Lv: 1
-Dialogue: 0,0:14:40.10,0:14:46.86,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(528.83,126.666)}Peringkat Dewa
-Dialogue: 0,0:14:40.10,0:14:46.86,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(560.438,174.667)}Peringkat Naga
-Dialogue: 0,0:14:40.10,0:14:46.86,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(588.46,220)}Peringkat Golem
-Dialogue: 0,0:14:40.10,0:14:46.86,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(612.478,277.333)}Peringkat Ogre
-Dialogue: 0,0:14:40.10,0:14:46.86,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(633.828,320)}Peringkat Ksatria
-Dialogue: 0,0:14:40.10,0:14:46.86,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(659.181,368)}Peringkat Goblin
-Dialogue: 0,0:14:40.10,0:14:46.86,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(683.2,424)}Peringkat Kelinci
-Dialogue: 0,0:18:07.06,0:18:11.56,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(528.83,126.666)}Peringkat Dewa
-Dialogue: 0,0:18:07.06,0:18:11.56,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(560.438,174.667)}Peringkat Naga
-Dialogue: 0,0:18:07.06,0:18:11.56,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(588.46,220)}Peringkat Golem
-Dialogue: 0,0:18:07.06,0:18:11.56,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(612.478,277.333)}Peringkat Ogre
-Dialogue: 0,0:18:07.06,0:18:11.56,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(633.828,320)}Peringkat Ksatria
-Dialogue: 0,0:18:07.06,0:18:11.56,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(659.181,368)}Peringkat Goblin
-Dialogue: 0,0:18:07.06,0:18:11.56,Default,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(683.2,424)}Peringkat Kelinci
+Dialogue: 0,0:08:12.59,0:08:13.88,Utama,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx90\fs24\c&HFEFFF6&\pos(409.726,56.6)}Daftar Skill
+Dialogue: 0,0:08:12.59,0:08:13.88,Utama,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(432.608,145.6)}Lempar Batu Lv: 1
+Dialogue: 0,0:08:13.88,0:08:13.93,Utama,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx90\fs24\c&HFEFFF6&\pos(409.726,56.6)}Daftar Skill
+Dialogue: 0,0:08:13.88,0:08:13.93,Utama,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(432.608,145.6)}Lempar Batu Lv: 1
+Dialogue: 0,0:08:13.93,0:08:13.97,Utama,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx90\fs24\c&HFEFFF6&\pos(409.726,56.6)}Daftar Skill
+Dialogue: 0,0:08:13.93,0:08:13.97,Utama,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(442.221,193.6)}Lempar Batu Lv: 1
+Dialogue: 0,0:08:13.97,0:08:14.47,Utama,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(442.221,193.6)}Lempar Batu Lv: 1
+Dialogue: 1,0:08:13.97,0:08:14.47,Utama,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(442.221,193.6)}Lempar Batu Lv: 1
+Dialogue: 0,0:08:14.47,0:08:15.09,Utama,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(442.221,193.6)}Lempar Batu Lv: 1
+Dialogue: 1,0:08:14.47,0:08:15.09,Utama,text,0,0,0,,{\b1\blur0.3\fnOCR A Extended\bord0\shad0\fscx85\fs25\c&HFEFFF6&\pos(442.221,193.6)}Lempar Batu Lv: 1
+Dialogue: 0,0:14:40.10,0:14:46.86,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(528.83,126.666)}Peringkat Dewa
+Dialogue: 0,0:14:40.10,0:14:46.86,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(560.438,174.667)}Peringkat Naga
+Dialogue: 0,0:14:40.10,0:14:46.86,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(588.46,220)}Peringkat Golem
+Dialogue: 0,0:14:40.10,0:14:46.86,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(612.478,277.333)}Peringkat Ogre
+Dialogue: 0,0:14:40.10,0:14:46.86,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(633.828,320)}Peringkat Ksatria
+Dialogue: 0,0:14:40.10,0:14:46.86,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(659.181,368)}Peringkat Goblin
+Dialogue: 0,0:14:40.10,0:14:46.86,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(683.2,424)}Peringkat Kelinci
+Dialogue: 0,0:18:07.06,0:18:11.56,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(528.83,126.666)}Peringkat Dewa
+Dialogue: 0,0:18:07.06,0:18:11.56,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(560.438,174.667)}Peringkat Naga
+Dialogue: 0,0:18:07.06,0:18:11.56,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(588.46,220)}Peringkat Golem
+Dialogue: 0,0:18:07.06,0:18:11.56,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(612.478,277.333)}Peringkat Ogre
+Dialogue: 0,0:18:07.06,0:18:11.56,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(633.828,320)}Peringkat Ksatria
+Dialogue: 0,0:18:07.06,0:18:11.56,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(659.181,368)}Peringkat Goblin
+Dialogue: 0,0:18:07.06,0:18:11.56,Utama,text,0,0,0,,{\fncommie sans\bord1\shad0\blur0.3\3a&H70&\fs22\fscx85\c&H343E47&\3c&HD4D4E1&\pos(683.2,424)}Peringkat Kelinci
 Dialogue: 0,0:00:21.21,0:00:24.57,Utama,orc middle brother,0,0,0,,Kelihatannya semua sudah takluk, kakak.
 Dialogue: 0,0:00:24.57,0:00:28.67,Utama,orc youngest brother,0,0,0,,Sekarang desa ini milik kita, Tiga Orc Bersaudara.
 Dialogue: 0,0:00:28.88,0:00:33.80,Utama,orc oldest brother,0,0,0,,Iya. Mari angkat gelas dan pesta-pesta, adik-adikku.
@@ -168,7 +168,7 @@ Dialogue: 0,0:05:43.32,0:05:44.57,Utama,Huan,0,0,0,,Iya.
 Dialogue: 0,0:05:44.83,0:05:47.56,Miring,Asahi; internal,0,0,0,,Saat bokek, aku harus jual item tak penting.
 Dialogue: 0,0:05:47.88,0:05:50.73,Miring,Asahi; internal,0,0,0,,Lalu uangnya kupakai untuk\N membeli perlengkapan yang kubutuhkan.
 Dialogue: 0,0:05:50.73,0:05:52.58,Miring,Asahi; internal,0,0,0,,Begitulah kehidupan dunia gim!
-Dialogue: 0,0:05:55.89,0:06:00.79,Miring,Asahi; internal,0,0,0,,Aku memilih armor kulit dan pedang sederhana,\Nlalu mengutamakan kelincahan.
+Dialogue: 0,0:05:55.89,0:06:00.79,Miring,Asahi; internal,0,0,0,,Aku memilih armor kulit dan pedang sederhana,\Nlalu mengUtamakan kelincahan.
 Dialogue: 0,0:06:02.71,0:06:04.92,Utama,Asahi,0,0,0,,Jadi, ini pedang sungguhan?!{\i1}{\i0}
 Dialogue: 0,0:06:04.92,0:06:09.64,Utama,Asahi,0,0,0,,Yah, aku cocoknya bertarung di garis depan yang mengandalkan kecepatan, ya.
 Dialogue: 0,0:06:12.14,0:06:15.14,Utama,Asahi,0,0,0,,Yosh! Perlengkapanku sudah beres!
@@ -462,7 +462,7 @@ Dialogue: 0,0:21:08.90,0:21:11.16,Miring,Asahi; internal,0,0,0,,Berhasil!
 Dialogue: 0,0:21:13.16,0:21:15.46,Utama,Asahi,0,0,0,,Wah, syukurlah, syukurlah.
 Dialogue: 0,0:21:15.46,0:21:19.67,Utama,Asahi,0,0,0,,Aku tidak ketahuan lemah, dan bisa mengusir bajingan itu tanpa melukai dia.
 Dialogue: 0,0:21:19.67,0:21:22.13,Utama,Asahi,0,0,0,,Pokoknya, ini adalah akhir bahagia!
-Dialogue: 0,0:00:03.35,0:00:06.78,utama,,0,0,0,,{\an1\pos(485.712,22.223)}Njirr ke Bstation buat nonton reupload bajakan
+Dialogue: 0,0:00:03.35,0:00:06.78,Utama,,0,0,0,,{\an1\pos(485.712,22.223)}Njirr ke Bstation buat nonton reupload bajakan
 Dialogue: 0,0:21:22.91,0:21:25.20,Utama,Maya,0,0,0,,Kamu lupa satu hal, Asahi.
 Dialogue: 0,0:21:26.52,0:21:28.09,Utama,Maya,0,0,0,,Janjimu.
 Dialogue: 0,0:21:28.55,0:21:31.06,Utama,Maya,0,0,0,,Minta apapun.
