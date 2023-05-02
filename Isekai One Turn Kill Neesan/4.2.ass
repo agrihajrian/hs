@@ -40,10 +40,10 @@ Style: Flashback Top,Roboto Medium,35,&H00FFFFFF,&H000000FF,&H00000000,&H0000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:51.40,0:01:02.03,Utama,text,0,0,0,,{\p1\bord0\fad(150,0)\shad0\blur0.3\c&H7100EE&\frz347\fscx130\fscy104\pos(410.49,456.192)}m 0 0 l 24 -14 l 22 30 l -1 35 l -3 47 l -34 60 l -35 18 l 0 9
-Dialogue: 1,0:00:51.40,0:01:02.03,TS,text,0,0,0,,{\fad(150,0)\an7\bord0\blur0.3\shad0\fs30\b1\fnBookman Old Style\c&H9B0006&\i1\pos(348.104,344.667)}Mbakku
-Dialogue: 1,0:00:51.40,0:01:02.03,TS,text,0,0,0,,{\fad(150,0)\an7\bord0\fax-0.32\fscx55\blur1\t(0,1900,\blur0.3)\fay-0.08\shad0\fs54\b1\fnBookman Old Style\c&HB8FFA8&\frz356\i0\pos(352.581,372.666)}Se
-Dialogue: 1,0:00:51.40,0:01:02.03,TS,text,0,0,0,,{\fad(150,0)\an7\fsp4\bord0\fax-0.42\fscx55\blur1\t(0,1900,\blur0.3)\fay-0.08\shad0\fs54\b1\fnBookman Old Style\c&HB8FFA8&\frz356.5\i1\pos(390.104,360)}bo
-Dialogue: 0,0:00:51.40,0:01:02.03,TS,text,0,0,0,,{\fad(150,0)\an7\bord0\blur0.3\shad0\fs40\b1\fnBookman Old Style\c&H7300E4&\i1\pos(413.913,370.001)}ge{\c&HE2AF0F&}man
+Dialogue: 1,0:00:51.40,0:01:02.03,Utama,text,0,0,0,,{\fad(150,0)\an7\bord0\blur0.3\shad0\fs30\b1\fnBookman Old Style\c&H9B0006&\i1\pos(348.104,344.667)}Mbakku
+Dialogue: 1,0:00:51.40,0:01:02.03,Utama,text,0,0,0,,{\fad(150,0)\an7\bord0\fax-0.32\fscx55\blur1\t(0,1900,\blur0.3)\fay-0.08\shad0\fs54\b1\fnBookman Old Style\c&HB8FFA8&\frz356\i0\pos(352.581,372.666)}Se
+Dialogue: 1,0:00:51.40,0:01:02.03,Utama,text,0,0,0,,{\fad(150,0)\an7\fsp4\bord0\fax-0.42\fscx55\blur1\t(0,1900,\blur0.3)\fay-0.08\shad0\fs54\b1\fnBookman Old Style\c&HB8FFA8&\frz356.5\i1\pos(390.104,360)}bo
+Dialogue: 0,0:00:51.40,0:01:02.03,Utama,text,0,0,0,,{\fad(150,0)\an7\bord0\blur0.3\shad0\fs40\b1\fnBookman Old Style\c&H7300E4&\i1\pos(413.913,370.001)}ge{\c&HE2AF0F&}man
 Dialogue: 0,0:00:51.40,0:01:02.03,Utama,text,0,0,0,,{\fad(150,0)\p1\blur2\blur0.3\c&HFCFAF5&\fscx237\bord1.5\shad0\fscy434\an7\3c&HA18652&\frz11.86\pos(450.859,413.239)}m 0 0 l 0 0 l 23 0 b 24 0 24 1 24 1 l 24 14 b 24 15 23 15 23 15 l -21 15 b -21 15 -22 15 -22 14 l -22 1 b -22 1 -22 1 -22 1 b -22 1 -22 0 -21 0 l -21 0 b -21 0 -21 0 -21 0 b -21 0 -21 0 -21 0{\p0}
 Dialogue: 0,0:00:51.40,0:01:02.03,Utama,text,0,0,0,,{\fad(150,0)\p1\blur2\blur0.3\c&HFCFAF5&\fscx220\bord1.5\shad0\fscy394\an7\3c&HA18652&\frz11.86\pos(452.669,415.905)}m 0 0 l 0 0 l 23 0 b 24 0 24 1 24 1 l 24 14 b 24 15 23 15 23 15 l -21 15 b -21 15 -22 15 -22 14 l -22 1 b -22 1 -22 1 -22 1 b -22 1 -22 0 -21 0 l -21 0 b -21 0 -21 0 -21 0 b -21 0 -21 0 -21 0{\p0}
 Dialogue: 0,0:00:51.40,0:01:02.03,Utama,text,0,0,0,,{\fad(150,0)\c&H9D6F49&\bord0\b1\shad0\fs18\an8\frz11.69\pos(458.289,414.953)}Hidup di dunia\Nlain bersama\NMbakku
