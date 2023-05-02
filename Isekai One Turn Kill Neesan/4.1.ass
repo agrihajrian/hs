@@ -39,7 +39,7 @@ Style: Flashback Top,Roboto Medium,35,&H00FFFFFF,&H000000FF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:51.40,0:01:02.03,Default,text,0,0,0,,{\p1\bord0\fad(150,0)\shad0\blur0.3\c&H7100EE&\frz347\fscx130\fscy104\pos(410.49,456.192)}m 0 0 l 24 -14 l 22 30 l -1 35 l -3 47 l -34 60 l -35 18 l 0 9
+Dialogue: 0,0:00:51.40,0:01:02.03,Utama,text,0,0,0,,{\p1\bord0\fad(150,0)\shad0\blur0.3\c&H7100EE&\frz347\fscx130\fscy104\pos(410.49,456.192)}m 0 0 l 24 -14 l 22 30 l -1 35 l -3 47 l -34 60 l -35 18 l 0 9
 Dialogue: 1,0:00:51.40,0:01:02.03,TS,text,0,0,0,,{\fad(150,0)\an7\bord0\blur0.3\shad0\fs30\b1\fnBookman Old Style\c&H9B0006&\i1\pos(348.104,344.667)}Mbakku
 Dialogue: 1,0:00:51.40,0:01:02.03,TS,text,0,0,0,,{\fad(150,0)\an7\bord0\fax-0.32\fscx55\blur1\t(0,1900,\blur0.3)\fay-0.08\shad0\fs54\b1\fnBookman Old Style\c&HB8FFA8&\frz356\i0\pos(352.581,372.666)}Se
 Dialogue: 1,0:00:51.40,0:01:02.03,TS,text,0,0,0,,{\fad(150,0)\an7\fsp4\bord0\fax-0.42\fscx55\blur1\t(0,1900,\blur0.3)\fay-0.08\shad0\fs54\b1\fnBookman Old Style\c&HB8FFA8&\frz356.5\i1\pos(390.104,360)}bo
