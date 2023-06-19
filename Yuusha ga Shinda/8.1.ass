@@ -41,8 +41,8 @@ Style: Overlap,Roboto Medium,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:59.01,0:02:02.51,Main,sign,0,0,0,,{\fad(1,480)\fnCourier New\b1\fs18\an7\shad0\bord1\3c&H303A32&\pos(43.873,84.702)}Episode 8
-Dialogue: 0,0:01:59.01,0:02:02.51,Main,sign,0,0,0,,{\fad(1,480)\fnCourier New\b1\fs18\an3\shad0\bord1\3c&H303A32&\pos(810.64,395.714)}Pahlawan Legendaris adalah Murid!
+Dialogue: 0,0:01:59.01,0:02:02.51,Utama,sign,0,0,0,,{\fad(1,480)\fnCourier New\b1\fs18\an7\shad0\bord1\3c&H303A32&\pos(43.873,84.702)}Episode 8
+Dialogue: 0,0:01:59.01,0:02:02.51,Utama,sign,0,0,0,,{\fad(1,480)\fnCourier New\b1\fs18\an3\shad0\bord1\3c&H303A32&\pos(810.64,395.714)}Pahlawan Legendaris adalah Murid!
 Dialogue: 0,0:00:02.69,0:00:04.98,Utama,Fieri,0,0,0,,Biar kami hadapi mereka.
 Dialogue: 0,0:00:04.98,0:00:06.64,Utama,Fieri,0,0,0,,Kalian pergilah!
 Dialogue: 0,0:00:09.61,0:00:11.07,Utama,Touka (Yuna),0,0,0,,Shannon, gaspol!
