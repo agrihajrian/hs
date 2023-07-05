@@ -1,4 +1,4 @@
-var player = videojs("luxmty-player", {
+var player = videojs("player", {
   controlBar: {
     children: ['playToggle', 'skipBackward', 'skipForward', 'volumePanel', 'currentTimeDisplay', 'timeDivider', 'durationDisplay', 'progressControl', 'liveDisplay', 'seekToLive', 'remainingTimeDisplay', 'customControlSpacer', 'playbackRateMenuButton', 'chaptersButton', 'descriptionsButton', 'subsCapsButton', 'audioTrackButton', 'ShareButton', 'pictureInPictureToggle', 'fullscreenToggle'],
   },
