@@ -32,7 +32,7 @@ Video Position: 6021
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Utama,Commie Sans,33,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,33,33,33,1
 Style: Opening JP,Bahnschrift,25,&H00FFFFFF,&H000000FF,&H007D5ACE,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,7,13,13,33,1
-Style: Opening ID,Garamond,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,3,13,13,33,1
+Style: Opening IDs,Garamond,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,3,13,13,33,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
