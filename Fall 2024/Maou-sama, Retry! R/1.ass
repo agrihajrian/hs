@@ -45,8 +45,8 @@ Style: sign_generic,Hey Fun,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.28,0:00:03.32,Utama,AKIRA,0,0,0,,15 tahun, ya?
 Dialogue: 0,0:00:03.32,0:00:05.36,Utama,AKIRA,0,0,0,,Lama juga, ya.
-Dialogue: 0,0:00:05.36,0:00:08.28,sign_generic,Sign,0,0,0,,{\c&HC8BFAC&\bord0\b1\blur1.5\fs54\pos(297,195)}Kunai Hakuto
-Dialogue: 0,0:00:05.36,0:00:08.28,sign_generic,Sign,0,0,0,,{\c&HC8BFAC&\bord0\blur1.5\b1\fs54\pos(210,315)}Pria
+Dialogue: 0,0:00:05.36,0:00:08.28,sign_generic,Sign,0,0,0,,{\c&HC8BFAC&\bord0\b1\blur1.5\fs24\pos(297,195)}Kunai Hakuto
+Dialogue: 0,0:00:05.36,0:00:08.28,sign_generic,Sign,0,0,0,,{\c&HC8BFAC&\bord0\blur1.5\b1\fs24\pos(210,315)}Pria
 Dialogue: 0,0:00:05.80,0:00:08.28,Utama,AKIRA,0,0,0,,Kau lumayan juga, Kunai Hakuto.
 Dialogue: 0,0:00:09.24,0:00:13.79,Utama,AKIRA,0,0,0,,Pemimpin Kekaisaran Agung \Ndan penyelenggara Infinity Game?
 Dialogue: 0,0:00:14.31,0:00:17.41,Utama,AKIRA,0,0,0,,Siapa sangka saat-saat terakhirku akan bersamamu.
@@ -68,7 +68,7 @@ Dialogue: 0,0:01:08.86,0:01:12.11,Miring,AKIRA,0,0,0,,Lah? Pakaian ini ....
 Dialogue: 0,0:01:13.34,0:01:14.47,Miring,AKIRA,0,0,0,,Jangan-jangan!
 Dialogue: 0,0:01:21.58,0:01:22.58,Miring,AKIRA,0,0,0,,Apa?!
 Dialogue: 0,0:01:26.83,0:01:28.98,Utama,AKIRAKUNAI,0,0,0,,Aku jadi Raja Iblis?!
-Dialogue: 0,0:03:06.04,0:03:11.05,sign_generic,Sign,0,0,0,,{\an1\bord1.5\blur3\shad4.5\c&HFCFFFA&\3c&H9A9D9F&\fs72\pos(1578,930)\fade(300,500)}Episode 1
+Dialogue: 0,0:03:06.04,0:03:11.05,sign_generic,Sign,0,0,0,,{\an1\bord1.5\blur3\shad4.5\c&HFCFFFA&\3c&H9A9D9F&\fs32\pos(1578,930)\fade(300,500)}Episode 1
 Dialogue: 0,0:03:09.62,0:03:11.38,Utama,AKIRA,0,0,0,,Hei, XX.
 Dialogue: 0,0:03:12.01,0:03:14.26,Utama,AKIRA,0,0,0,,Aku tidak bisa lewat.
 Dialogue: 0,0:03:14.26,0:03:17.34,Utama,XX,0,0,0,,Ah, cari saja celahnya.
@@ -96,7 +96,7 @@ Dialogue: 0,0:04:20.57,0:04:23.67,Utama,XX,0,0,0,,Tidak, birmu adalah milikku.
 Dialogue: 0,0:04:23.67,0:04:25.76,Utama,XX,0,0,0,,Birku juga adalah milikku.
 Dialogue: 0,0:04:25.76,0:04:27.96,Utama,AKIRA,0,0,0,,Pergi dan pantunlah di tanah kosong sana.
 Dialogue: 0,0:04:34.16,0:04:38.34,Utama,XX,0,0,0,,Infinity Game buatanmu benar-benar terkenal, ya.
-Dialogue: 0,0:04:38.17,0:04:38.34,sign_generic,Sign,0,0,0,,{\bord0\b1\c&HF7FCF8&\fs180\pos(972,273)}Kehancuran
+Dialogue: 0,0:04:38.17,0:04:38.34,sign_generic,Sign,0,0,0,,{\bord0\b1\c&HF7FCF8&\fs150\pos(972,273)}Kehancuran
 Dialogue: 0,0:04:38.69,0:04:41.44,Utama,AKIRA,0,0,0,,Aku hanya ingin membuat duniaku sendiri.
 Dialogue: 0,0:04:41.93,0:04:44.76,Utama,AKIRA,0,0,0,,Aku kerahkan semua keinginanku ke sana.
 Dialogue: 0,0:04:44.76,0:04:49.44,Utama,AKIRA,0,0,0,,Sebagai akibatnya, aku menghabiskan semua warisan orang tuaku.
@@ -125,7 +125,7 @@ Dialogue: 0,0:06:00.33,0:06:03.34,Utama,XX,0,0,0,,Bagikan kepedeanmu padaku untu
 Dialogue: 0,0:06:03.34,0:06:05.68,Utama,AKIRA,0,0,0,,Ya jangan minum terus, dan pergi sana.
 Dialogue: 0,0:06:09.18,0:06:13.44,Utama,AKIRA,0,0,0,,Ini lebih grogi ketimbang ke Hello Work.
 Dialogue: 0,0:06:13.44,0:06:17.36,sign_generic,Sign,0,0,0,,{\p1\shad0\bord0\an8\fscy20\fscx215\c&H3E93AB&\pos(951,846)}m 0 0 l 477 0 477 495 0 495{\p0}
-Dialogue: 1,0:06:13.44,0:06:17.36,sign_generic,Sign,0,0,0,,{\c&H344D53&\bord0\fs84\pos(960,939)}Selanjutnya lantai 6O
+Dialogue: 1,0:06:13.44,0:06:17.36,sign_generic,Sign,0,0,0,,{\c&H344D53&\bord0\fs44\pos(960,939)}Selanjutnya lantai 6O
 Dialogue: 0,0:06:24.64,0:06:28.95,Miring,AKIRA,0,0,0,,Persetan sama Mikity dan tawaran MMO besar.
 Dialogue: 0,0:06:29.52,0:06:33.59,Miring,AKIRA,0,0,0,,Asalkan mau bayar 100 juta yen,\Nbaru mau kupertimbangkan.
 Dialogue: 0,0:06:40.02,0:06:41.50,Utama,AKIRA,0,0,0,,Ada apa ini?
@@ -286,7 +286,7 @@ Dialogue: 0,0:15:11.20,0:15:12.97,Utama,AKU,0,0,0,,Ah, terima kasih.
 Dialogue: 0,0:15:15.77,0:15:17.99,Miring,AKIRA,0,0,0,,Bagaimana sekarang?
 Dialogue: 0,0:15:17.99,0:15:22.19,Miring,AKIRA,0,0,0,,Jika ini gim, aku harus buka menu \Ndan memeriksa statusku.
 Dialogue: 0,0:15:22.53,0:15:24.56,Miring,AKIRA,0,0,0,,Oh? Beneran bisa muncul?
-Dialogue: 0,0:15:24.03,0:15:32.66,sign_generic,Sign,0,0,0,,{\fs44\blur1.5\c&H1D20A3&\bord0\b1\pos(963,798)}Butuh koin lagi untuk membuka
+Dialogue: 0,0:15:24.03,0:15:32.66,sign_generic,Sign,0,0,0,,{\fs14\blur1.5\c&H1D20A3&\bord0\b1\pos(963,798)}Butuh koin lagi untuk membuka
 Dialogue: 0,0:15:24.56,0:15:28.99,Miring,AKIRA,0,0,0,,Aku akan ganti ke mode administrator dengan memasukkan ID dan kata sandinya ....
 Dialogue: 0,0:15:28.99,0:15:31.64,Miring,AKIRA,0,0,0,,Berhasil! Akses khusus administrator ....
 Dialogue: 0,0:15:31.64,0:15:33.27,Miring,AKIRA,0,0,0,,Semuanya masih kekunci.
@@ -415,4 +415,4 @@ Dialogue: 0,0:22:04.65,0:22:05.36,Utama,LUNA,0,0,0,,Eh?
 Dialogue: 0,0:22:05.36,0:22:07.70,Utama,KUNAI,0,0,0,,Mumpung kau di sini, mau ikut minum juga?
 Dialogue: 0,0:22:07.70,0:22:09.77,Utama,KUNAI,0,0,0,,Aku punya alkohol dan camilan.
 Dialogue: 0,0:22:09.77,0:22:12.75,Utama,LUNA,0,0,0,,Tidak mau, bodoh!
-Dialogue: 0,0:23:45.07,0:23:50.07,sign_generic,Sign,0,0,0,,{\an2\bord1.5\blur3\shad4.5\c&HFCFFFA&\3c&H9A9D9F&\fs84\pos(957,402)}Selanjutnya
+Dialogue: 0,0:23:45.07,0:23:50.07,sign_generic,Sign,0,0,0,,{\an2\bord1.5\blur3\shad4.5\c&HFCFFFA&\3c&H9A9D9F&\fs44\pos(957,402)}Selanjutnya
