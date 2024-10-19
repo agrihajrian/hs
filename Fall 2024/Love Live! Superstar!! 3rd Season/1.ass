@@ -24,7 +24,7 @@ Video Position: 33808
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Opening JP,Bahnschrift,25,&H00FFFFFF,&H000000FF,&H007D5ACE,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,7,13,13,33,1
-Style: Fuyutsuki Sayang,Ruzicka Freehand LT Std Roman,76,&H00FFFFFF,&H000000FF,&H00DB54DE,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,13,13,33,1
+Style: Fuyutsuki Sayang,Ruzicka Freehand LT Std Roman,66,&H00FFFFFF,&H000000FF,&H00DB54DE,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,13,13,33,1
 Style: Opening ID,Garamond,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,3,13,13,33,1
 Style: Caption-12,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
 Style: Utama,Commie Sans,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,27,27,66,0
@@ -110,7 +110,7 @@ Dialogue: 1,0:10:31.88,0:10:33.02,Utama,,0,0,0,,{\fs40\blur1.2\frz324.6\3c&HF5ED
 Dialogue: 1,0:11:01.11,0:11:03.58,Utama,,0,0,0,,{\fry-0.1\frx2.01\frz-24.48\clip(m 458.91 85.09 l 1868.91 612.36 1506.49 1295.94 13.33 667.33)\fs400\blur3\pos(780,920)}Anu, Chi-chan
 Dialogue: 1,0:11:07.58,0:11:09.59,Utama,,0,0,0,,{\blur1\fs140\c&H6D6F66&\pos(912,344)}1,2 juta kali ditonton
 Dialogue: 1,0:11:10.00,0:11:11.37,Utama,,0,0,0,,{\blur1\q2\fscx105.64\fscy101.66\frx1.5202\fry2.6726\\pos(886.23,882.55)\frz354.9\c&H54504A&\3c&HFFFFFF&}[Geger!] Muncul saingan terkuat Liella!! [Margarete?!]
-Dialogue: 0,0:00:03.32,0:00:10.40,Utama,,0,0,0,,{\fs45\pos(336,58.666)}Solo-yolo oleh www.huntersekai.online
+Dialogue: 0,0:00:03.32,0:00:10.40,Utama,,0,0,0,,{\fs45\pos(350,58.666)}Solo-yolo oleh www.huntersekai.online
 Dialogue: 0,0:00:03.32,0:00:06.22,Utama,,0,0,0,,Sebelumnya di Love Live! Superstar!!
 Dialogue: 0,0:00:06.29,0:00:09.10,Utama,,0,0,0,,Aku Shibuya Kanon enggak bisa bernyanyi di depan orang.
 Dialogue: 0,0:00:10.09,0:00:12.22,Utama,,0,0,0,,{\i1}Merdu banget!
