@@ -5,8 +5,8 @@ ScriptType: v4.00+
 PlayDepth: 0
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-PlayResX: 640
-PlayResY: 360
+PlayResX: 848
+PlayResY: 480
 YCbCr Matrix: TV.601
 Original Editing: lendrive.web.id
 
